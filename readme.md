@@ -1,7 +1,7 @@
 # Curriculum Vitae  
 
 
-![avatar](../../../%D0%9C%D0%9E%D0%98%20%D0%A4%D0%9E%D0%A2%D0%9E/my-photo.JPG)
+![avatar](/IMG_8377.jpg)
 ## BORIS KAMINSKIY
 
 ### Data i miejsce urodzenia
